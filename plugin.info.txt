@@ -1,0 +1,7 @@
+base   nowrep
+author torinky
+email  k_tori@me.com
+date   2018-12-02
+name   nowrep plugin
+desc   now report
+url    https://github.com/torinky
